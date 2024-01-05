@@ -30,6 +30,8 @@ plt.pie(counts.values,labels=counts.index,autopct='%1.1i%%',textprops={'fontsize
 plt.title('Sentiment Analysis',fontsize=25,color='red')
 plt.savefig('Sentiment_Analysis.jpg')
 plt.show()
+
+
 <img width="336" alt="image" src="https://github.com/aimejeslyn/BritishAirwaysReviews/assets/91269730/8eaa840b-c50a-4b98-8ba2-807d3cfc324c">
 
 
