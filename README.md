@@ -1,7 +1,7 @@
 # BritishAirwaysReviews
 
 **Practicing Data 
-source: https://www.kaggle.com/code/minnikeswarrao/sentiment-analysis**
+source code: https://www.kaggle.com/code/minnikeswarrao/sentiment-analysis**
 
 <img width="568" alt="image" src="https://github.com/aimejeslyn/BritishAirwaysReviews/assets/91269730/579d8a87-1a58-45db-8acc-3ed6c165f08d">
 
